@@ -1,0 +1,3 @@
+Model,Train Accuracy,Test Accuracy,Num Support Vectors (sum)
+SVM (RBF) - Unscaled,0.9186813186813186,0.9298245614035088,124
+SVM (RBF) - Scaled (StandardScaler),0.9824175824175824,0.9824561403508771,97
